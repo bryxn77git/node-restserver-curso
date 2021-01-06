@@ -1,1 +1,0 @@
-mongodb+srv://bbalderrama:<password>@cluster0.onyle.mongodb.net/test
